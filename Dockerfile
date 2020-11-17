@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:12
 # Create app directory inside docker container
 WORKDIR /usr/src/app
 
